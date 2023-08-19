@@ -266,12 +266,12 @@
 }
 
 .btn-primary-outline {
-    border: 1.4px solid var(--clr-purple);
+    border: 1.4px solid purple;
     color: var(--clr-purple);
 }
 
 .btn-secondary {
-    background-color: var(--clr-white);
+    background-color: var(-;
     color: var(--clr-purple);
 }
 
