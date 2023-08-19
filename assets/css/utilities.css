@@ -271,7 +271,7 @@
 }
 
 .btn-secondary {
-    background-color: var(-;
+    background-color: var(--clr-white);
     color: var(--clr-purple);
 }
 
